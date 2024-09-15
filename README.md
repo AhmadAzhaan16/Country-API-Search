@@ -1,0 +1,3 @@
+This program fetches a list of countries and associated travel photos from two APIs. When the user clicks the "Click to perform first fetch" button, the program retrieves the list of countries and populates a dropdown menu. The user can then select a country from this dropdown, triggering another API call to fetch photos associated with that country. The fetched images are displayed in a grid format on the webpage.
+
+Loading spinners are shown while the data is being fetched, enhancing the user experience. The entire process is handled using JavaScript, with HTML for the structure and CSS for styling the layout and loading indicators.
